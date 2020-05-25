@@ -15,8 +15,44 @@ Mes modifs
 
 #poutre
 {
-	
+	background-image: url(elmnts_finis/poutreF.png);
+	background-size: contain;
+	height: 441px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: center;
 }
+
+#dispo_pehd
+{
+	background-image: url("pEHD/dispo_pehd.png");
+	background-size: contain;
+	height: 367px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#cone_jet
+{
+	background-image: url("pEHD/cone_jet.jpg");
+	background-size: contain;
+	height: 406px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#particules
+{
+	background-image: url("pEHD/particules.jpg");
+	background-size: contain;
+	height: 406px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
 
 /*
 -----------------------------------------------------------------
