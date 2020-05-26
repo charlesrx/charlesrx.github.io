@@ -55,7 +55,7 @@ Mes modifs
 
 dl
 {
-	width: 78%;
+	width: 100%;
 	text-align: justify;
 }
 
@@ -115,14 +115,14 @@ dl dd
 .cvlist
 {
 	text-align: justify;
-	width: 78%;
+	width: 100%;
 	list-style-type: none;
 	list-style: none;
 }
 
 .cventry
 {
-	width: 70%;
+	width: 92%;
 	text-align: justify;
 }
 
