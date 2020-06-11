@@ -13,17 +13,6 @@
 Mes modifs
 */
 
-#poutre
-{
-	background-image: url(elmnts_finis/poutreF.png);
-	background-size: contain;
-	height: 441px;
-	position: relative;
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-
 .conteneur
 {
 	display: flex;
