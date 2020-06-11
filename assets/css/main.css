@@ -53,6 +53,18 @@ Mes modifs
 	background-position: center;
 }
 
+.conteneur
+{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+
+
+
 dl
 {
 	width: 100%;
